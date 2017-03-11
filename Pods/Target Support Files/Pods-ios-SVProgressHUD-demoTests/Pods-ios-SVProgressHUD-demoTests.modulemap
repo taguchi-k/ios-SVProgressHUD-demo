@@ -1,0 +1,6 @@
+framework module Pods_ios_SVProgressHUD_demoTests {
+  umbrella header "Pods-ios-SVProgressHUD-demoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
